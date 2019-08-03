@@ -1,2 +1,1 @@
-# uss
-Unified Serverless Service
+# Unified Serverless Service (USS)

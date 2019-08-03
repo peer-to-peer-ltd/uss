@@ -1,0 +1,28 @@
+{
+  "name": "uss",
+  "version": "0.0.1",
+  "description": "Unified Serverless Service",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peer-to-peer-ltd/uss.git"
+  },
+  "keywords": [
+    "serverless",
+    "unified",
+    "service"
+  ],
+  "author": "Tanase Laurentiu Iulian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peer-to-peer-ltd/uss/issues"
+  },
+  "homepage": "https://github.com/peer-to-peer-ltd/uss#readme",
+  "dependencies": {
+    "webpack": "^4.39.1"
+  }
+}
