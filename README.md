@@ -1,3 +1,3 @@
 # Unified Serverless Service (USS)
 
-[https://uss.peertopeer.ltd](http://uss.peertopeer.ltd)
+Public test: [uss.peertopeer.ltd](https://uss.peertopeer.ltd)
